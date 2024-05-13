@@ -4,13 +4,7 @@
  */
 /* FONT PATH
  * -------------------------- */
- @font-face {
-    font-family: 'FontAwesome';
-    src: url('/web/20211020015449im_/http://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?v=4.0.3');
-    src: url('/web/20211020015449im_/http://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.eot#iefix&v=4.0.3') format('embedded-opentype'), url('/web/20211020015449im_/http://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('/web/20211020015449im_/http://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('/web/20211020015449im_/http://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-  }
+
   .fa {
     display: inline-block;
     font-family: FontAwesome;
